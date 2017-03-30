@@ -1,0 +1,6 @@
+
+my_key_name = "oreore"
+
+my_cidr_blocks = [
+    "192.0.2.123/32"
+]
